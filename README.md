@@ -1,6 +1,7 @@
-# All my remaining **\*.vmf** files from 2019 to 2025.
-After multiple OS reinstallations, I've lost the most part of my maps archive, so I've decided to upload my last *.vmf files
-for free use.
+# All my \*.vmf files from 2019 to 2025.
+
+I've decided to upload my last *.vmf files for free use.
+
 ## Required games and mods (content):
 1. Garry's Mod
 2. Counter Strike: Global Offensive
