@@ -18,9 +18,9 @@ for free use.
 14. INFRA
 15. No More Room in Hell
 
-There may be few unneccesary, but I don't really know which one exactly, so it will be better if you will buy and download all listed games.
+There may be a few unneccesary  games, but I don't really know which ones exactly, so it will be better if you buy and download all listed games.
 
-You can use every *.vmf file with any goal, you don't need to ask my permission to use them. Tho, it would be nice, if you would send a link to your creation that uses my *.vmf content.
+You can use every *.vmf file with any goal, you don't need to ask my permission to use them. Tho, it would be nice, if you would send a link to your creation that uses my *.vmf files.
 
 ### Contacts:
 - Discord - *\_feth\_*
