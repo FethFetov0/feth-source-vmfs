@@ -1,5 +1,5 @@
 # All my remaining **\*.vmf** files from 2019 to 2025.
-After multiple OS reinstallations, I lost the most part of my maps archive, I decided to upload my last *.vmf files
+After multiple OS reinstallations, I've lost the most part of my maps archive, so I've decided to upload my last *.vmf files
 for free use.
 ## Required games and mods (content):
 1. Garry's Mod
@@ -18,9 +18,9 @@ for free use.
 14. INFRA
 15. No More Room in Hell
 
-There may be a few unneccesary  games, but I don't really know which ones exactly, so it will be better if you buy and download all listed games.
+There may be a few unneccesary  games, but I don't really know which ones exactly, so it will be better if you buy and download every listed game.
 
-You can use every *.vmf file with any goal, you don't need to ask my permission to use them. Tho, it would be nice, if you would send a link to your creation that uses my *.vmf files.
+You can use any *.vmf file with any goal, you don't need to ask for my permission to use any. Though, it would be nice, if you send me a link to your creation that uses my *.vmf file(s).
 
 ### Contacts:
 - Discord - *\_feth\_*
