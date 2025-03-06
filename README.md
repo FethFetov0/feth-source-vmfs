@@ -24,5 +24,5 @@ You can use every *.vmf file with any goal, you don't need to ask my permission 
 
 ### Contacts:
 - Discord - *\_feth\_*
-- Steam - Feth1
-- Email - fethfetov@gmail.com
+- Steam - *Feth1*
+- Email - *fethfetov@gmail.com*
