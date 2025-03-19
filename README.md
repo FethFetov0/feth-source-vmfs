@@ -1,6 +1,7 @@
-# All my remaining **\*.vmf** files from 2019 to 2025.
-After multiple OS reinstallations, I've lost the most part of my maps archive, so I've decided to upload my last *.vmf files
-for free use.
+# All my \*.vmf files from 2019 to 2025.
+
+I've decided to upload my last *.vmf files for free use.
+
 ## Required games and mods (content):
 1. Garry's Mod
 2. Counter Strike: Global Offensive
@@ -18,9 +19,11 @@ for free use.
 14. INFRA
 15. No More Room in Hell
 
+and my source assets: https://github.com/FethFetov0/feth-source-assets
+
 There may be a few unneccesary  games, but I don't really know which ones exactly, so it will be better if you buy and download every listed game.
 
-You can use any *.vmf file with any goal, you don't need to ask for my permission to use any. Though, it would be nice, if you send me a link to your creation that uses my *.vmf file(s).
+You can use any *.vmf file(s) with any goal, you don't need to ask for my permission to use any. Though, it would be nice, if you send me a link to your creation that uses my *.vmf file(s).
 
 ### Contacts:
 - Discord - *\_feth\_*
