@@ -26,6 +26,5 @@ There may be a few unneccesary  games, but I don't really know which ones exactl
 You can use any *.vmf file(s) with any goal, you don't need to ask for my permission to use any. Though, it would be nice, if you send me a link to your creation that uses my *.vmf file(s).
 
 ### Contacts:
-- Discord - *\_feth\_*
 - Steam - *Feth1*
 - Email - *fethfetov@gmail.com*
